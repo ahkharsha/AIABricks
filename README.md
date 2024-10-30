@@ -21,10 +21,10 @@ The platform is live and can be accessed at:
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the AIA Testnet T4 at [0xF859e215A276EC632Fb46DCca4EbccF99C8993D2](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2).  
+The Smart Contract is deployed on the AIA Testnet at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://testnet.aiascan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
 Visit the link below to view it on the explorer!
 
-**🔗 [AIABricks Smart Contract](https://testnet.aiascan.com/address/0xF859e215A276EC632Fb46DCca4EbccF99C8993D2)**
+**🔗 [AIABricks Smart Contract](https://testnet.aiascan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)**
 
 ---
 
